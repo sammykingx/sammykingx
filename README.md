@@ -5,11 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently ... A student of the ALX SE Program
-🌱 I’m currently being trained to be a seasoned software engineer
-👯 I’m looking to collaborate on Projects related to c, Python, Js, SQL.
-🤔 I’m looking for help with Internships, job openings, oppourtunities that will further
-- contibute to my growth as a software engineer
+- 🔭 I’m currently ... A student of the ALX SE Program
+- 🌱 I’m currently being trained to be a seasoned software engineer
+- 👯 I’m looking to collaborate on Projects related to c, Python, Js, SQL.
+- 🤔 I’m looking for help with Internships, job openings, oppourtunities that will further contibute to my growth as a software engineer
 <!--- 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->

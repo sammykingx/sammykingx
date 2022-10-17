@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 <!--
   gif section
 -->
-<img align="left" width='500' hieght='200' src="https://media3.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif?cid=ecf05e47b2sh0gv3oacluw6cmescxw02psu67xvzybjq931x&rid=giphy.gif&ct=g">
-<img alt="writing codes" width='500' hieght='200' align="right" src="https://media1.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47b2sh0gv3oacluw6cmescxw02psu67xvzybjq931x&rid=giphy.gif&ct=g">
+<img align="left" width='400' hieght='200' src="https://media3.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif?cid=ecf05e47b2sh0gv3oacluw6cmescxw02psu67xvzybjq931x&rid=giphy.gif&ct=g">
+<img alt="writing codes" width='400' hieght='200' align="right" src="https://media1.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47b2sh0gv3oacluw6cmescxw02psu67xvzybjq931x&rid=giphy.gif&ct=g">
 <br clear='all'/>
 
 <h3 align="left">Languages and Tools:</h3>

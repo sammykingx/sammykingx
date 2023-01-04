@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--<img align='center' width='1020' src='https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=826&t=st=1665971325~exp=1665971925~hmac=ec0dfa2d7e5eab170131ade718501cc66f0eeb07495ca493d38c092b518cb8a9'>
 -->
 
-- 🔭 I’m currently working an [Intern student in the ALX SE Program](https://www.alxafrica.com/software-engineering-2022/)
+- 🔭 I’m currently an [Intern student in the ALX SE Program](https://www.alxafrica.com/software-engineering-2022/)
 
-- 🌱 I’m currently learning **BASH Scripting**
+- 🌱 I’m currently learning **Internet Networking**
 
 - 👯 I’m looking to collaborate on **any project that involves c, python, Bash scripting, Linux system admin as those are the knowledge i have as of now**
 
-- 🤝 I’m looking for more expereince **With projects and internship opportunities in been a better SE**
+- 🤝 I’m looking for more expereince **With projects and internship opportunities in being a better SE**
 
-- 💬 Ask me about **c, Python, Javascript, SQL, BASH Scripting**
+- 💬 Ask me about **c, Python, Javascript, SQL, BASH Scripting, Web Servers (Nginx, Apache)**
 
 - 📫 You can reach me via **sammy@sammykingx.com.ng**
 

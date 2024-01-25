@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 <!-- 🤝 I’m looking for more expereince **With projects and internship opportunities in being a better SE** -->
 
-- 👉 I've built industry standard web applications and RESTful APIs as well as financial systems using pythong, having worked on several projects involving integrations with flutterwave, Stripe, PayPal, and other providers.
+- 👉 I've built industry standard web applications and RESTful APIs as well as financial systems using python, having worked on several projects involving integrations with flutterwave, Stripe, PayPal, and other providers.
 
-- 👉 I've also worked on projects that requires integration google services such as google buckets, google drive, etc.
+- 👉 I've also worked on projects that requires integration with cloud services such as google buckets, google drive, etc.
 
 - 📫 You can reach me via **sammy@sammykingx.com.ng**
 
